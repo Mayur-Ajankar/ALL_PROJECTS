@@ -1,5 +1,5 @@
 pandas
 numpy
-
 seaborn
-#-e . # automaticlly triger setup.py
+matplotlib
+-e . 
